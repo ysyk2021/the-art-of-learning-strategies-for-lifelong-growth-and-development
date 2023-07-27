@@ -1,4 +1,4 @@
-Chapter: Conclusion
+Conclusion
 ===================
 
 The ongoing journey of lifelong learning
