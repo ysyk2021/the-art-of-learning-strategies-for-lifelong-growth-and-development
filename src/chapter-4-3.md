@@ -1,5 +1,3 @@
-Creating a Plan to Achieve Your Learning Goals
-=================================================================================
 
 In this chapter, we will explore the importance of creating a plan to achieve your learning goals. We will discuss the role of breaking down goals into smaller steps, establishing a timeline, and tracking progress as techniques for achieving successful learning outcomes.
 

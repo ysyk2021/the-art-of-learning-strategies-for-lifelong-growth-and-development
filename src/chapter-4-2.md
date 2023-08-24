@@ -1,5 +1,3 @@
-Setting SMART Learning Goals
-===============================================================
 
 In this chapter, we will explore the importance of setting learning goals in effective learning. We will discuss the role of setting SMART learning goals as techniques for achieving successful learning outcomes.
 

@@ -1,5 +1,3 @@
-Chapter 4: Finding the Right Learning Resources
-===============================================
 
 In this chapter, we will explore the importance of finding the right learning resources. We will discuss the role of evaluating learning resources, selecting the right resources for your learning goals, and utilizing online and offline learning resources.
 

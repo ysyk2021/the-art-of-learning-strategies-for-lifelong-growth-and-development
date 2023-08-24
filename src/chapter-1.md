@@ -1,5 +1,3 @@
-Introduction
-============
 
 Why lifelong learning is important
 ----------------------------------

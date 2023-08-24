@@ -1,5 +1,3 @@
-How We Learn
-=======================
 
 In order to embark on a journey of lifelong growth and development, it is crucial to understand the process of learning. This chapter delves into the various aspects of learning, including the different types of learners, cognitive processes, and effective learning strategies.
 

@@ -1,5 +1,3 @@
-Techniques for Active Learning
-=======================================
 
 In this chapter, we explore a variety of techniques and strategies for active learning. Active learning is a dynamic approach that emphasizes engaging with the material, reflecting on one's learning process, and applying knowledge in practical ways. By actively participating in the learning experience, individuals can enhance understanding, retention, and overall growth and development.
 

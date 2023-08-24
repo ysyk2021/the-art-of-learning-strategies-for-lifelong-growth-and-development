@@ -1,5 +1,3 @@
-Building Knowledge through Experiential Learning
-===========================================================
 
 Experiential learning is a powerful approach to building knowledge and skills by engaging in hands-on experiences and reflecting on the lessons learned. In this chapter, we will explore the principles and strategies behind experiential learning and how it can enhance lifelong growth and development.
 

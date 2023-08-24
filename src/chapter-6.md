@@ -1,5 +1,3 @@
-Chapter 5: Engaging in Active Learning
-======================================
 
 Active learning involves actively engaging with the material to be learned, rather than simply passively receiving information. In this chapter, we will explore techniques for active learning and how to incorporate reflection and experiential learning into the process.
 

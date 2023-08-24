@@ -1,5 +1,3 @@
-Evaluating Learning Resources
-=========================================
 
 In the vast landscape of learning resources available today, it is crucial to develop skills for evaluating their quality and relevance. This chapter explores strategies for effectively assessing learning resources to make informed choices that enhance lifelong growth and development.
 

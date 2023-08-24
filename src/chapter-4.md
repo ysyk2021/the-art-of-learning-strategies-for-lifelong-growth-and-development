@@ -1,5 +1,3 @@
-Chapter 3: Setting Learning Goals
-=================================
 
 In this chapter, we will explore the importance of setting learning goals. We will discuss the role of identifying areas for personal and professional growth, setting SMART learning goals, and creating a plan to achieve these goals.
 

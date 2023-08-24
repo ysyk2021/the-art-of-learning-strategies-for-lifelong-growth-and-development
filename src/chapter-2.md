@@ -1,5 +1,3 @@
-Chapter 1: Understanding the Learning Process
-=============================================
 
 In this chapter, we will explore the learning process, including how we learn, the different types of learning, and common obstacles that can impede effective learning.
 

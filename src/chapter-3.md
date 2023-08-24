@@ -1,5 +1,3 @@
-Chapter 2: Developing a Growth Mindset
-======================================
 
 In this chapter, we will explore the concept of a growth mindset and discuss strategies for developing one. We will also examine the benefits of a growth mindset in learning.
 
